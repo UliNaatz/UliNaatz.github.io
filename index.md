@@ -7,3 +7,6 @@ Tarzan ist eine von Edgar Rice Burroughs erdachte Figur, die erstmals in der Ges
 * Likes Monkeys
 * Shouts out loud frequently
 * Wears no tie
+
+He sometimes says:
+> Uaaah uuaaah uaaahhhh u
